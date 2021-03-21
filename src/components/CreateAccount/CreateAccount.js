@@ -21,7 +21,7 @@ if(firebase.apps.length === 0){
     password: '',
     photo: ''
   })
-  const [loggedInUser, setLoggedInUser] = useContext(UserContext)
+  const [setLoggedInUser] = useContext(UserContext)
   const history = useHistory();
   const location = useLocation();
   let { from } = location.state || { from: { pathname: "/whereTo" } };

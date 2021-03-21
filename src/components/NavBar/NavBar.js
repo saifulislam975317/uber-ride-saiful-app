@@ -3,7 +3,7 @@ import { UserContext } from '../../App';
 import './NavBar.css'
 
 const NavBar = () => {
-    const [loggedInUser, setLoggedInUser] =useContext(UserContext)
+    const [loggedInUser] =useContext(UserContext)
     return (
         <div className="nav-bar">
         <nav>
