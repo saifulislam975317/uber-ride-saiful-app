@@ -1,0 +1,30 @@
+.nav-bar {
+    text-align: center;
+}
+
+.nav-bar nav {
+    background: black;
+    line-height: 22px;
+    font-size: 20px;
+}
+
+.nav-bar nav a {
+    color: white;
+    text-decoration: none;
+    margin-top: 48px;
+    margin: 15px;
+    padding: 3px;
+}
+
+.nav-bar nav a:hover {
+    background-color: gray;
+}
+
+
+
+p.title {
+    color: white;
+    position: relative;
+    left: 341px;
+    bottom: 41px;
+}

@@ -1,0 +1,35 @@
+.form{
+    margin: 30px 100px;
+}
+.form input{
+    display: block;
+    margin-top: 30px;
+    padding: 5px;
+    border: 1px solid gray;
+    width: 300px;
+}
+.error{
+    color:red
+}
+
+.form-containers {
+    display: flex;
+}
+
+.map-div img {
+    width: 700px;
+    height: 450px;
+}
+
+.form-details {
+    border: 1px solid black;
+    background-color: #5e999b;
+}
+
+input.search-button {
+    background-color: orange;
+    border-radius: 6px;
+    line-height: 23px;
+    color: black;
+    cursor: pointer;
+}

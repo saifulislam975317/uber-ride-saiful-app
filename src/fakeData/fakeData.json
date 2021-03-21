@@ -1,0 +1,33 @@
+[{
+  "id": 1,
+  "type": "Car",
+  "location1": "Mirpur-1",
+  "location2": "Dhanmondi",
+  "capacity": 4,
+  "fare": 250,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kia_Stinger_GTS_-_Fast_Performance_GT_Car.jpg"
+}, {
+  "id": 2,
+  "type": "Bike",
+  "location1": "Kallyanpur",
+  "location2": "Mohakhali",
+  "capacity": 2,
+  "fare": 120,
+  "image": "http://1.bp.blogspot.com/-PFOGpS_RfiM/UjwTyHvVZBI/AAAAAAAAAsg/TlNe3skA_n4/s1600/suzuki+gsx+bike.jpg"
+}, {
+  "id": 3,
+  "type": "Bus",
+  "location1": "Mohammadpur",
+  "location2": "Gulshan",
+  "capacity": 30,
+  "fare": 40,
+  "image": "https://www.itl.cat/pngfile/big/296-2969800_bus-wallpaper-for-pc.jpg"
+}, {
+  "id": 4,
+  "type": "Train",
+  "location1": "Dhaka",
+  "location2": "Chattogram",
+  "capacity": 500,
+  "fare": 500,
+  "image": "https://www.team-bhp.com/forum/attachments/commercial-vehicles/1087031d1369338173-railway-pics-img_0367.jpg"
+}]

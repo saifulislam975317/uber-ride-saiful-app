@@ -1,0 +1,35 @@
+
+
+.vehicle-details img {
+    width: 280px;
+    height: 230px;
+}
+
+.vehicle-details {
+    box-shadow: 10px 10px 10px gray;
+    width: 320px;
+    border-radius: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: lightgrey;
+    text-align: center;
+    cursor: pointer;
+}
+
+.vehicle-container {
+    display: inline-block;
+}
+
+h1.riders {
+    text-align: left;
+    padding: 15px;
+    margin: 15px;
+    font-size: 40px;
+    font-weight: bold;
+}
+body{
+    background-image: url('https://png.pngtree.com/thumb_back/fw800/back_our/20190625/ourmid/pngtree-creative-synthetic-atmospheric-road-traffic-background-image_262594.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}

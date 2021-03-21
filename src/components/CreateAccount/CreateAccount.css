@@ -1,0 +1,23 @@
+.form-container {
+    border: 1px solid black;
+    width: 500px;
+    background-color: cadetblue;
+    margin: 10px;
+    padding: 2px;
+}
+
+.signIn-signUp-form {
+    border: 1px solid black;
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    box-shadow: 12px 10px 10px 2px gray;
+    background-color: cadetblue;
+}
+
+button.google-button {
+    width: 214px;
+    background-color: orange;
+    line-height: 21px;
+    cursor: pointer;
+}
